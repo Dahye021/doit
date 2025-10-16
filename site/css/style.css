@@ -118,6 +118,11 @@ header {
 button{
   position : absolute;
   height: 100%;
+  top : 0;
+  border: none;
+  padding: 20px;
+  background-color: transparent;
+  columns: #000;
 }
 
 
